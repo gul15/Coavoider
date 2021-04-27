@@ -14,3 +14,5 @@ rosrun coavoider controller.py
 Commands:
 ("garbage" or "medical") and (1,2,3,4)
 Examples -> garbage 1, medical 3 
+
+Demo video: https://www.youtube.com/watch?v=ZpDd9o9RFcU
